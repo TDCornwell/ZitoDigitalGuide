@@ -1,0 +1,22 @@
+Let's Watch	What channel?		Let's Watch	What channel?		Let's Watch	What channel?		Let's Watch	What Channel?
+ABC	82.1		HLN	90.24		Animan Planet	100.622			106.112
+NBC	82.3		QVC	90.728		Golf	100.63		RFD	106.146
+CBS SEC	83.3		PBS	91.3		CNBC	100.636		Disney XD	106.773
+CBS	83.4		TNT	91.49		MSNBC	100.65		SNY	113.1
+Fox CBF	84.3		CSPAN	91.66		YES	101.1		NFL	114.608
+ESPN	84.31		A&E	91.601		Nat. Geo.	102.606			114.66
+ABC	85.1		Cartoon Network	92.64		Food	102.609			116
+My 43	85.3		TLC	92.621		Travel	102.666			
+CBS	86.2		SyFy	92.635		GAC	102.776			
+PBS - WCNY	86.3		TCM	93.57		Classic	103.3			
+MeTV	87.4		Ooutdoor	93.59		CSPAN2	103.67			
+CNN	87.23		Lifetime	93.633		Bravo	103.8			
+USA	87.627		History	93.667		ESPNU	103.123			
+DIY	87.76		AMC	93.704		Fox News	103.657			
+WGN	88.12		E!	93.722		Fox Sports 1	103.665			
+TBS	88.5		Ion	94.3		Fox Sports2	104.1			
+Discovery	88.62		FX	94.699			104.5			
+Freeform	88.775		Hallmark	94.673		NBC SN	104.605			
+ESPN2	89.32		FXM	94.757		Guide	105.1			
+ESPN Goal Line	89.604		Guide	95		Bounce	105.5			
+Disney	89.733		HGTV	100.61		HSN	106.66			
